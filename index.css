@@ -145,3 +145,12 @@ ul>span:hover {
 .clear_btn:hover {
     background-color: rgb(234, 242, 250);
 }
+
+@media screen and (max-width:550px){
+    .list_box{
+        padding: 25px;
+    }
+    ul{
+        width: 100%;
+    }
+}
